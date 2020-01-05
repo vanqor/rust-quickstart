@@ -1,0 +1,8 @@
+[package]
+name = "REPLACE_ME_APP_NAME"
+version = "0.1.0"
+
+[dependencies]
+actix-web = "2.0.0"
+actix-rt = "1.0.0"
+env_logger = "0.6"
